@@ -7,7 +7,9 @@ html {
 }
 
 h1 {
-    color: white;
-    font-family: 
-
+    color: #954AAC;
+    font-family: "Papyrus", "Courier New", sans-serif;
+    font-size: 56px;
+    font-weight: 900;
+    text-align: center;
 }
