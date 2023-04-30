@@ -1,9 +1,13 @@
-.bg {
-    min-height: 100%;
-    min-width: 2040px;
-    width: 100%;
-    height: auto;
-    position: fixed;
-    top: 0;
-    left: 0;
+html {
+    background: url(./images/Hanging-Herbs.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-family: 
+
 }
