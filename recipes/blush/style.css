@@ -1,3 +1,9 @@
+.title {
+    text-align: center;
+    font-family: "Papyrus", "Courier New", Sans-serif;
+    color: #F43D96;
+}
+
 img {
     height: auto;
     Width: 500px;
