@@ -12,3 +12,7 @@ img {
 #center {
     text-align: center;
 }
+
+.text {
+    font-family: Georgia, Sans-serif;
+}
