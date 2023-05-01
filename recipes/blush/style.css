@@ -16,3 +16,7 @@ img {
 .text {
     font-family: Georgia, Sans-serif;
 }
+
+button {
+    text-align: center;
+}
