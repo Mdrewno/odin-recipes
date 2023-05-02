@@ -17,6 +17,18 @@ img {
     font-family: Georgia, Sans-serif;
 }
 
-button {
+.home {
+    border-radius: 12px;
+    background-color: #F43D96;
+    border: 2px solid #F43D96;
+    color: white;
     text-align: center;
+    font-size: 16px;
+    padding: 16px;
+    transition-duration: 0.4s;
+}
+
+.home:hover {
+    background-color: white; 
+    color: #F43D96;
 }
